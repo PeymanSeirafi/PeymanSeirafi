@@ -1,8 +1,6 @@
-Peyman Seirafi 👋
+Junior React Developer
 ===============================
 
-Junior React Developer
-----------------------
 
 I've been learning to code since I was 12 years old. First I started by learning Python but then I found out I was in love with web development so I started learning front end. I'm fluent in Html, CSS, JS, Ajax API, React, and Tailwindcss.
 <br /><br />
