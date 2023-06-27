@@ -1,4 +1,4 @@
-Hi 👋
+Peyman Seirafi 👋
 ===============================
 
 Junior React Developer
@@ -7,13 +7,13 @@ Junior React Developer
 I've been learning to code since I was 12 years old. First I started by learning Python but then I found out I was in love with web development so I started learning front end. I'm fluent in Html, CSS, JS, Ajax API, React, and Tailwindcss.
 <br /><br />
 
-### Contact Me :   
+###  📞 Contact Me :   
               
 🔸 Telegram: [@Peyman_Srf](https://t.me/Peyman_Srf) <br />
 🔸 Mail: [seirafi.peyman@yahoo.com](mailto:seirafi.peyman@yahoo.com)
-<br />
+<br /><br />
 
-### Skills :
+###  💻 Skills :
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -25,9 +25,9 @@ I've been learning to code since I was 12 years old. First I started by learning
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+</p><br />
 
-### Badges<b>My GitHub Stats</b>
+###  📊 My GitHub Stats :
 <a
                       href="http://www.github.com/PeymanSeirafi"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=PeymanSeirafi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
