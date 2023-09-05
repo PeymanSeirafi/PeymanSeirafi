@@ -25,7 +25,6 @@ I've been learning to code since I was 12 years old. First I started by learning
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/640px-Python.svg.png" width="36" height="36" alt="Python" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" width="36" height="36" alt="Photoshop" /></a>
-  
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968525.png" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p><br />
@@ -35,6 +34,4 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_C
                       href="http://www.github.com/PeymanSeirafi"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=PeymanSeirafi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <br />
-<br />
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PeymanSeirafi&theme=dark&show_icons=true)](https://github.com/PeymanSeirafi)
+<a href="https://github.com/PeymanSeirafi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeymanSeirafi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
