@@ -36,4 +36,4 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_C
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PeymanSeirafi)](https://github.com/PeymanSeirafi)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PeymanSeirafi&theme=dark&show_icons=true)](https://github.com/PeymanSeirafi)
