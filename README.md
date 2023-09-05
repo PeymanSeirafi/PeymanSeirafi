@@ -34,5 +34,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_C
                       href="http://www.github.com/PeymanSeirafi"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=PeymanSeirafi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 <br />
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PeymanSeirafi)](https://github.com/PeymanSeirafi)
+<br />
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PeymanSeirafi)](https://github.com/PeymanSeirafi)
